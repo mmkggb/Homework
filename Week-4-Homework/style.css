@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(194, 188, 188);
+    background-image: url("./pics/congruent_pentagon.png");
+    
+}
+header {
+    background-image: url("./pics/congruent_pentagon.png");
+}
+
+#heading > h1  {
+color: #6c441b;
+text-align: center;
+font-family: monospace;
+}
+
+#heading > img {
+
+    /* align-items: center; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+ /* #ulFB {
+    
+    vertical-align: middle;
+} */
+ #frontend {
+    display: inline-block;
+    vertical-align: middle;
+}
+#backend {
+    display: inline-block;
+    vertical-align: middle;
+}
+main {
+    background-color: rgb(247, 147, 15, 0.7);
+    
+}
+/* main > p {
+    border: auto;
+    padding-left : 1.5em;
+    margin: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: larger;
+
+} */
+
+p {
+    
+        font-size: 18px;
+        font-family: cambria;
+        padding-top: 25px;
+        padding-left: 20px;
+        padding-right: 20px;
+    
+}
+footer {
+    background-color: rgb(39, 231, 39, 0.5);
+    margin-top: -1.2em;
+    margin-bottom: -10px;
+}
+.main-text > a {
+    color: rgb(48, 151, 120);
+    text-decoration-color: rgb(245, 52, 52);
+    text-shadow: 1px 1px black;
+    }
+
+.footer-text > a {
+color: rgb(24, 24, 248);
+text-shadow: 0.25px 0.25px black;
+
+}
+
+#frontend > ul {
+    background-color: rgb(255, 251, 246, 0.20);
+    border: 5px;
+    margin-right: 70px;
+    margin-left: 150px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+padding-left: 35px;
+border-style: solid;
+font-family: cursive;
+    /* padding: 10px; */
+    border-color: rgb(255, 251, 246, 0.20);
+}
+
+#backend >ul {
+       background-color: rgb(47, 214, 161, 0.3);
+    border: 5px;
+    border-style: solid;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 35px;
+    border-color: rgb(47, 214, 161, 0.3);
+    font-family: cursive;
+}
+#footerText > p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-left: 20px;
+padding-bottom: 25px;
+}
+
+#mainText > h3{
+    padding-top: 20px;
+    text-align: center;
+}
+    #footHeading > h3{
+        padding-top: 20px;
+        text-align: center;
+    }
+     * h3 {
+        color: #670a7e;
+        font-family: tahoma;
+    
+    }  
